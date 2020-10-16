@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name": "Anand Kulkarni",
+    "occupation": "Software Developer",
+    "description": "Full Stack Developer by Profession && Freelancer by Passion",
+    "image": "Anand.jpg",
+    "bio": "My name is Anand, I'm a Software Developer. Currently I'm working at Schlumberger",
+    "contactmessage": "Get in touch with me",
+    "email": "learncodingwithandy@gmail.com",
+    "phone": "+91 8600170192",
+    "address": {
+      "street": "Palk Street",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411033"
+    },
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anand-kulkarni-39073b146/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/anand_kulkarni.js/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/LearnCodingWithAndy",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'am a very passionate Full Stack Software Developer",
+    "education": [
+      {
+        "school": "Savitribai Phule Pune University",
+        "degree": "Bachelor of Engineering | Computer Science",
+        "graduated": "June 2020",
+        "description": "Graduated with CGPA of 8.4"
+      }
+    ],
+    "work": [
+      {
+        "company": "Schlumberger",
+        "title": "Software Developer",
+        "years": "September 2020 - Present",
+        "description": "I am a Full Stack Software Developer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C/C++",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Chatroom Web App",
+        "category": "Chatroom Services is a Web App developed using (ReactJS, Firebase)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://my-chat-room-apps.web.app/"
+      },
+      {
+        "title": "E-Commerce Website",
+        "category": "Built an E-Commerce Web App using (ReactJS, NodeJS, Firebase, Express)",
+        "image": "netflix-clone.jpeg",
+        "url": "https://shop-mart-at-home.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "XYZ"
+      }
+    ]
+  }
+}
