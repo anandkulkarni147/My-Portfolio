@@ -60,8 +60,8 @@
         "level": "80%"
       },
       {
-        "name": "CSS",
-        "level": "85%"
+        "name": "HTML/CSS",
+        "level": "90%"
       },
       {
         "name": "Java",
@@ -72,8 +72,8 @@
         "level": "75%"
       },
       {
-        "name": "HTML5",
-        "level": "90%"
+        "name": "MySQL",
+        "level": "80%"
       },
       {
         "name": "MongoDB",
@@ -92,7 +92,7 @@
       {
         "title": "E-Commerce Website",
         "category": "Built an E-Commerce Web App using (ReactJS, NodeJS, Firebase, Express)",
-        "image": "netflix-clone.jpeg",
+        "image": "amazon.png",
         "url": "https://shop-mart-at-home.web.app/"
       }
     ]
