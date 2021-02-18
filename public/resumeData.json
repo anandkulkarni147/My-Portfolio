@@ -1,15 +1,15 @@
 {
   "main": {
     "name": "Anand Kulkarni",
-    "occupation": "Software Developer",
-    "description": "Full Stack Developer by Profession && Freelancer by Passion",
+    "occupation": "Software Engineer",
+    "description": "Software Developer by Profession && Full Stack Freelance Software Developer by Passion",
     "image": "Anand.JPG",
     "bio": "My name is Anand, I'm a Software Developer. Currently I'm working at Schlumberger",
     "contactmessage": "Get in touch with me",
     "email": "learncodingwithandy@gmail.com",
     "phone": "+91 8600170192",
     "address": {
-      "street": "Palk Street",
+      "street": "Sana Paradise",
       "city": "Pune",
       "state": "Maharashtra",
       "zip": "411033"
@@ -33,27 +33,27 @@
     ]
   },
   "resume": {
-    "skillmessage": "I'am a very passionate Full Stack Software Developer",
+    "skillmessage": "Passionate about Full Stack Web Developement",
     "education": [
       {
         "school": "Savitribai Phule Pune University",
         "degree": "Bachelor of Engineering | Computer Science",
         "graduated": "June 2020",
-        "description": "Graduated with CGPA of 8.4"
+        "description": "Graduated with GPA of 4"
       }
     ],
     "work": [
       {
-        "company": "Schlumberger",
-        "title": "Software Developer",
-        "years": "September 2020 - Present",
-        "description": "I am a Full Stack Software Developer"
+        "company": "Schlumberger | PITC",
+        "title": "Associate Software Developer",
+        "years": "September 2020 - Present 6 months",
+        "description": "Working with Python and Javascript Framework"
       }
     ],
     "skills": [
       {
         "name": "C/C++",
-        "level": "95%"
+        "level": "90%"
       },
       {
         "name": "ReactJs",
@@ -61,7 +61,7 @@
       },
       {
         "name": "HTML/CSS",
-        "level": "90%"
+        "level": "85%"
       },
       {
         "name": "Java",
@@ -69,7 +69,7 @@
       },
       {
         "name": "Python",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": "MySQL",
@@ -101,7 +101,7 @@
     "testimonials": [
       {
         "text": "The solution prepared by Anand Kulkarni was very good & matching the requirement. We received the solution within the given timeline. We would like to hire Anand again for our future tasks.",
-        "user": "Aruna MyWritingMaster.com"
+        "user": "Aruna | MyWritingMaster.com"
       }
     ]
   }
