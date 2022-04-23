@@ -2,7 +2,7 @@
   "main": {
     "name": "Anand Kulkarni",
     "occupation": "Software Developer",
-    "description": "I have completed my Bachelors in Computer Engineering and work as a Software Developer at Schlumberger Limited in Pune",
+    "description": "I have completed my Bachelors in Computer Engineering and work as a Software Developer at Schlumberger Limited, Pune",
     "image": "Anand.JPG",
     "bio": "Hello, I am Anand Kulkarni, I am a Pune based Software Developer. Currently, I work as a Software Developer at Schlumberger Limited, Pune",
     "contactmessage": "Get in touch with me",
@@ -30,10 +30,13 @@
         "url": "https://github.com/anandkulkarni147",
         "className": "fa fa-github"
       }
-    ]
+    ],
+    "resume": {
+      "resumeDownloadURL": "resume/Anand_Kulkarni_Software_Engineer_Resume.pdf"
+    }
   },
   "resume": {
-    "skillmessage": "I am passionate about building full stack software applications",
+    "skillmessage": "I'm an optimistic Software Engineer passionate about building highly scalable Enterprise Applications who is ready to face challenges, grow and achieve success by applying software development skills.",
     "education": [
       {
         "school": "Savitribai Phule Pune University",
@@ -86,13 +89,13 @@
       {
         "title": "Chatroom Web App",
         "category": "Chatroom Services is a Web App developed using (ReactJS, Firebase)",
-        "image": "whatsapp-mern.jpeg",
+        "image": "chatapplogo.png",
         "url": "https://my-chat-room-apps.web.app/"
       },
       {
         "title": "E-Commerce Website",
         "category": "Built an E-Commerce Web App using (ReactJS, NodeJS, Firebase, Express)",
-        "image": "amazon.png",
+        "image": "ecommerceapplogo.png",
         "url": "https://shop-mart-at-home.web.app/"
       }
     ]
@@ -101,7 +104,7 @@
     "testimonials": [
       {
         "text": "The solution prepared by Anand Kulkarni was very good & matching the requirement. We received the solution within the given timeline. We would like to hire Anand again for our future tasks.",
-        "user": "Aruna | MyWritingMaster.com"
+        "user": "MyWritingMaster.com"
       }
     ]
   }
